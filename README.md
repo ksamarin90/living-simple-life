@@ -1,5 +1,6 @@
-# living-simple-life
- Project on responsive web site
+Living simple life.
+
+My project on responsive web site.
  
- mellow-morning.surge.sh
+http://mellow-morning.surge.sh/
 
